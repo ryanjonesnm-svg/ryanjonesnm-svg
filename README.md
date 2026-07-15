@@ -21,33 +21,6 @@ Before moving into tech, I spent several years in hospitality and manufacturing 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-## 📌 Featured Projects
-
-### TradeMe-Inspired Marketplace _(Team Project - BrAInbots)_
-
-Full-stack e-commerce marketplace built with a 4-person Agile team. Built the Compare page - a Netflix-style horizontal carousel for side-by-side product comparison - plus a CLI database seeder and AI-assisted keyword search endpoint.
-`React` `Vite` `Node.js` `Express` `MongoDB Atlas` `OpenAI API`
-🔗 [Repo link - add here]
-
-### Tina - AI Insurance Recommendation Chatbot _(Team Project)_
-
-AI-powered chatbot recommending insurance products, integrated with OpenAI's gpt-4o-mini. Fully containerised with Docker and docker-compose, with a Jest/Supertest backend test suite.
-`React` `Vite` `Node.js` `Express` `OpenAI API` `Docker`
-🔗 [Repo link - add here]
-
-### AI-Powered Mock Interview App _(Team Project)_
-
-Owned backend development; migrated the AI integration from Gemini to OpenAI mid-project with zero disruption to the frontend.
-`React` `Vite` `Node.js` `Express`
-🔗 [Repo link - add here]
-
-### Vehicle Recognition Prototype - Turners Cars
-
-Cloud-based vehicle recognition prototype using Azure Computer Vision.
-`React` `Vite` `Node.js` `Express` `Azure Computer Vision`
-🔗 [Repo link - add here]
 
 ---
 
