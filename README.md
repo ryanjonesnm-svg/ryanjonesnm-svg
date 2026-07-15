@@ -6,7 +6,7 @@ Before moving into tech, I spent several years in hospitality and manufacturing 
 
 🔭 Currently completing my final Missions at MissionReady
 🌱 Learning: deepening my backend and testing skills (Jest/Supertest, Docker)
-👀 Open to junior full-stack developer roles in Christchurch/Canterbury, NZ
+👀 Open to junior full-stack developer roles.
 
 ---
 
